@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to VATTracker project
 
-You can use the [editor on GitHub](https://github.com/elewarr/VATTracker-App-Store/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+VATTracker is a plane and ATC tracker allowing you to find any ATC or a plane currently flying in VATSIM network - track its course and display additional details.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+You can use VATTracker to find any ATC or find and track any plane currently available in VATSIM network and display details provided by a pilot.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Features
+- find a plane or ATC by callsign, flight name or squawk
+- track selected plane (map will re-center itself on a target when it will be out of boundaries)
+- track multiple planes in tabs or windows
+- switch between multiple map types: standard, muted, satellite, satellite flyover, hybrid, hybrid flyover
+- show trails for selected plane (this is plotted using data provided by VATSIM, not the actual flight plan)
+- display information provided by ATC (like frequency) or a pilot (pilot name, flight name, squawk, heading, aircraft type, route details, etc.)
+- position of all VATSIM entities is refreshed periodically as provided by VATSIM (usually it's once every 60s)
+- switch between light and dark mode (as set by macOS)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/elewarr/VATTracker-App-Store/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Screenshots
