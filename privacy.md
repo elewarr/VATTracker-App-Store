@@ -31,7 +31,11 @@ VATTracker does not use any frameworks for analytical purposes.
 
 ### Website
 
-VATTracker website is using GitHub pages and relies on GitHub's [privacy policy](https://github.com/site/privacy).  
+VATTracker website is using GitHub pages and relies completely and exclusively on GitHub's [Privacy Policy](https://github.com/site/privacy).  
 
+### App Store and payment process
+
+VATTracker is available exclusively on App Store and payment process is subject to Apple's [Privacy Policy](https://www.apple.com/legal/privacy/).
+  
 ---
 ###### 2020, Krystian Lewandowski
