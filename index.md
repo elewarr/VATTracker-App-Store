@@ -19,9 +19,14 @@ VATTracker is using public data provided by VATSIM network, no VATSIM account is
 
 ### Support
 
-In case you'll need assistance, spot a bug or require a help, please create [a new issue](https://github.com/elewarr/VATTracker-App-Store/issues/new).
+In case you'll need assistance, spot a bug or require a help, please create [a new issue](https://github.com/elewarr/VATTracker-App-Store/issues/new/choose).
 
 You may also review [existing issues](https://github.com/elewarr/VATTracker-App-Store/issues).
+
+### Privacy Policy
+
+Please check our [Privacy Policy](privacy) for more details.
+
 
 ### Screenshots
 
@@ -32,3 +37,6 @@ You may also review [existing issues](https://github.com/elewarr/VATTracker-App-
 ![screenshot](screenshots/app_store_3.png "screenshot")
 
 ![screenshot](screenshots/app_store_4.png "screenshot")
+
+---
+###### 2020, Krystian Lewandowski
