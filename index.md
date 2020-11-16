@@ -1,8 +1,10 @@
 ## Welcome to VATTracker project
 
-VATTracker is a plane and ATC tracker allowing you to find any ATC or a plane currently flying in VATSIM network - track its course and display additional details.
+VATTracker is a plane and ATC tracker allowing you to find any ATC or a plane currently connected to VATSIM network - track its course and display additional details.
 
 You can use VATTracker to find any ATC or find and track any plane currently available in VATSIM network and display details provided by a pilot.
+
+VATTracker is using public data provided by VATSIM network, no VATSIM account is required.
 
 ### Features
 
